@@ -2,9 +2,6 @@
 
 This is an interactive Power BI dashboard built for analyzing supermarket sales across different cities and product lines.
 
-![Dashboard Preview](dashboard-preview.jpg)
-
----
 
 ## 📌 About the Project
 
